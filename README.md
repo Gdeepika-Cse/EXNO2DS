@@ -1,4 +1,6 @@
 # EXNO2DS
+# NAME.- DEEPIKA G
+# REG NO.- 212224040060
 # AIM:
  To perform Exploratory Data Analysis on the given data set.
       
