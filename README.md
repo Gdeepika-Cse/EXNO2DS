@@ -1,8 +1,8 @@
 # EXNO2DS
-# NAME.- DEEPIKA G
-# REG NO.- 212224040060
+# NAME : DEEPIKA G
+# REG NO: 212224040060
 # AIM:
- To perform Exploratory Data Analysis on the given data set.
+      To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
@@ -25,7 +25,6 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-
 ```py
   import pandas as pd
   import numpy as np
@@ -35,7 +34,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
   dt
  ```
          
-![Screenshot 2024-09-13 153035](https://github.com/user-attachments/assets/c1271d70-c329-46c5-aced-a9715ca69a2a)
+![382002336-d3d1579b-0e6b-4a6e-9a4d-8504cec089e6](https://github.com/user-attachments/assets/dcec321b-3036-46f7-9a99-adadbe7a44e0)
+
 
 ```py
         dt.info()
@@ -136,3 +136,7 @@ sns.heatmap(corr, annot=True)
 
 # RESULT
 Exploratory Data Analysis on the given data set is completed successfully.
+
+
+
+
